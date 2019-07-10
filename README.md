@@ -1,1 +1,1 @@
-# Python Practice 👩🏽‍💻🦄
+# Python Exercises 👩🏽‍💻🦄
