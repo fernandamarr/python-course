@@ -3,8 +3,5 @@
 # animal_crackers('Crazy Kangaroo') --> False
 
 def animal_crackers(text):
-    string1, string2 = text.split(' ')
-    if string1[0] == string2[0]:
-        return True
-    else:
-        return False
+    string1, string2 = text.lower().split(' ')
+    return string1[0] == string2[0]
